@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "net.koteyka32k.autoanvil.AutoAnvilPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "2b2t auto anvil.",
+  "Authors": [
+    "Koteyka32k"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
